@@ -6,7 +6,7 @@
 
 </head>
 <body>
-<H1>Barbearia Alura</H1>
+<H1 style="text-align: center">Barbearia Alura</H1>
 
   <h2>Sobre a Barbearia Alura</h2>
 
