@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang"pt-br">
   <meta charset="UTF-8">
-  <title Barbearia Alura>
   
   <H1>Barbearia Alura</H1>
 
