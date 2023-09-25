@@ -3,10 +3,10 @@
 <head>
 
 <meta charset="UTF-8">
-
+<title>Barbearia Alura</title>
 </head>
 <body>
-<title>Barbearia Alura</title>
+<h1>Barbearia Alura</h1>
 
   <h1 style="text-align: center">Sobre a Barbearia Alura</h1>
 
